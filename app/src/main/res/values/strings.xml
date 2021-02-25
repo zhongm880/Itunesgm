@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ItunesK</string>
+    <string name="artist_name">Artist name: %s</string>
+    <string name="track_name">Track name: %s</string>
+    <string name="release_date">Release: %s</string>
+    <string name="primary_genre">Genre: %s</string>
+    <string name="track_price">Price: %s</string>
+    <string name="til_hint_enter_artist">Enter Artist</string>
+    <string name="btn_text_search">Search</string>
+</resources>
